@@ -13,7 +13,7 @@ Resume Matcher mempermudah proses seleksi kandidat dengan fitur berikut:
 
 **Lihat Cara Kerjanya**\
 Berikut demo singkat penggunaan aplikasi:\
-![Demo Resume Matcher]([https://imgur.com/a/pfsffDJ])  
+![Demo Resume Matcher](https://imgur.com/a/pfsffDJ)  
 *(Catatan: Ganti URL di atas dengan GIF asli, misalnya pakai ScreenToGif atau LICEcap, untuk menunjukkan proses unggah file dan hasil pencocokan.)*
 
 ## 📂 Struktur Proyek
